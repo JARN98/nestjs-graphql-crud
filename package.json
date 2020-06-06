@@ -27,7 +27,7 @@
     "@nestjs/mongoose": "^6.1.2",
     "@nestjs/passport": "^6.1.1",
     "@nestjs/platform-express": "^6.7.2",
-    "apollo-server-express": "^2.9.14",
+    "apollo-server-express": "^2.14.2",
     "bcryptjs": "^2.4.3",
     "graphql": "^14.5.8",
     "graphql-tools": "^4.0.6",
